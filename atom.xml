@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>龙蛋孵化所</title>
+  
+  <subtitle>努力破壳……</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-10T02:33:55.011Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>LiliDragon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>龙蛋孵化所成立</title>
+    <link href="http://example.com/2021/12/10/hello-world/"/>
+    <id>http://example.com/2021/12/10/hello-world/</id>
+    <published>2021-12-09T16:02:15.807Z</published>
+    <updated>2021-12-10T02:33:55.011Z</updated>
+    
+    
+    <summary type="html">惊奇是第一生产力，总之，孵化所正式开张！</summary>
+    
+    
+    
+    <category term="杂谈" scheme="http://example.com/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
